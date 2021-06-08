@@ -1,0 +1,18 @@
+um5/ssi/traininggps/MyApplication.java
+ um5.ssi.traininggps.MyApplication
+um5/ssi/traininggps/MapsActivity.java
+ um5.ssi.traininggps.MapsActivity
+ um5.ssi.traininggps.MapsActivity$1
+um5/ssi/traininggps/BuildConfig.java
+ um5.ssi.traininggps.BuildConfig
+um5/ssi/traininggps/MainActivity.java
+ um5.ssi.traininggps.MainActivity
+ um5.ssi.traininggps.MainActivity$1
+ um5.ssi.traininggps.MainActivity$2
+ um5.ssi.traininggps.MainActivity$3
+ um5.ssi.traininggps.MainActivity$4
+ um5.ssi.traininggps.MainActivity$5
+ um5.ssi.traininggps.MainActivity$6
+ um5.ssi.traininggps.MainActivity$7
+um5/ssi/traininggps/ShowSavedLocationList.java
+ um5.ssi.traininggps.ShowSavedLocationList
