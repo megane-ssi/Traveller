@@ -1,4 +1,0 @@
-#Mon Jun 07 02:05:02 BST 2021
-base.0=/home/lenovo/AndroidStudioProjects/trainingGPS/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
