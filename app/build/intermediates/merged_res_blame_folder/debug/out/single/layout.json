@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/lenovo/AndroidStudioProjects/trainingGPS/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/one_line_way_point.xml",
+        "source": "/home/lenovo/AndroidStudioProjects/trainingGPS/app/src/main/res/layout/one_line_way_point.xml"
+    },
+    {
+        "merged": "/home/lenovo/AndroidStudioProjects/trainingGPS/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_show_saved_location_list.xml",
+        "source": "/home/lenovo/AndroidStudioProjects/trainingGPS/app/src/main/res/layout/activity_show_saved_location_list.xml"
+    },
+    {
+        "merged": "/home/lenovo/AndroidStudioProjects/trainingGPS/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/lenovo/AndroidStudioProjects/trainingGPS/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/lenovo/AndroidStudioProjects/trainingGPS/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_edit_title.xml",
+        "source": "/home/lenovo/AndroidStudioProjects/trainingGPS/app/src/main/res/layout/activity_edit_title.xml"
+    },
+    {
+        "merged": "/home/lenovo/AndroidStudioProjects/trainingGPS/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_maps.xml",
+        "source": "/home/lenovo/AndroidStudioProjects/trainingGPS/app/src/main/res/layout/activity_maps.xml"
+    }
+]
