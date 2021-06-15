@@ -1,0 +1,43 @@
+um5/ssi/traininggps/WayPoint.java
+ um5.ssi.traininggps.WayPoint
+um5/ssi/traininggps/databinding/OneLineWayPointBinding.java
+ um5.ssi.traininggps.databinding.OneLineWayPointBinding
+um5/ssi/traininggps/FeedReaderContract.java
+ um5.ssi.traininggps.FeedReaderContract
+ um5.ssi.traininggps.FeedReaderContract$FeedEntry
+um5/ssi/traininggps/databinding/ActivityEditTitleBinding.java
+ um5.ssi.traininggps.databinding.ActivityEditTitleBinding
+um5/ssi/traininggps/BuildConfig.java
+ um5.ssi.traininggps.BuildConfig
+um5/ssi/traininggps/databinding/ActivityMapsBinding.java
+ um5.ssi.traininggps.databinding.ActivityMapsBinding
+um5/ssi/traininggps/databinding/ActivityShowSavedLocationListBinding.java
+ um5.ssi.traininggps.databinding.ActivityShowSavedLocationListBinding
+um5/ssi/traininggps/databinding/ActivityMainBinding.java
+ um5.ssi.traininggps.databinding.ActivityMainBinding
+um5/ssi/traininggps/FeedReaderDbHelper.java
+ um5.ssi.traininggps.FeedReaderDbHelper
+um5/ssi/traininggps/EditTitle.java
+ um5.ssi.traininggps.EditTitle
+ um5.ssi.traininggps.EditTitle$1
+ um5.ssi.traininggps.EditTitle$2
+um5/ssi/traininggps/ShowSavedLocationsList.java
+ um5.ssi.traininggps.ShowSavedLocationsList
+um5/ssi/traininggps/MainActivity.java
+ um5.ssi.traininggps.MainActivity
+ um5.ssi.traininggps.MainActivity$1
+ um5.ssi.traininggps.MainActivity$2
+ um5.ssi.traininggps.MainActivity$3
+ um5.ssi.traininggps.MainActivity$4
+ um5.ssi.traininggps.MainActivity$5
+ um5.ssi.traininggps.MainActivity$6
+ um5.ssi.traininggps.MainActivity$7
+um5/ssi/traininggps/MapsActivity.java
+ um5.ssi.traininggps.MapsActivity
+ um5.ssi.traininggps.MapsActivity$1
+um5/ssi/traininggps/RecyclerViewAdapter.java
+ um5.ssi.traininggps.RecyclerViewAdapter
+ um5.ssi.traininggps.RecyclerViewAdapter$1
+ um5.ssi.traininggps.RecyclerViewAdapter$2
+ um5.ssi.traininggps.RecyclerViewAdapter$3
+ um5.ssi.traininggps.RecyclerViewAdapter$MyViewHolder
